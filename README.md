@@ -1,7 +1,15 @@
 # Cypress v13 Blocking
 
 
-Clone the repo. Build the docker image:
+Clone the repo. 
+
+```sh
+git clone https://github.com/agoldis/cypress-blocking-example.git
+cd cypress-blocking-example
+```
+
+
+Build the docker image:
 
 ```sh
  docker build -t cypress-blocking-example .
